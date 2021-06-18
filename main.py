@@ -1,3 +1,5 @@
+'''key assumption this would be hosted and excecuted routinely using a scheduler'''
+
 from bs4 import BeautifulSoup
 import requests
 import smtplib
